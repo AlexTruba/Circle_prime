@@ -1,0 +1,9 @@
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\bin\Debug\Circle_prime.exe.config
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\bin\Debug\Circle_prime.exe
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\bin\Debug\Circle_prime.pdb
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\obj\Debug\Circle_prime.csprojResolveAssemblyReference.cache
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\obj\Debug\Circle_prime.exe
+C:\Users\strab\Desktop\Circle_prime\Circle_prime\obj\Debug\Circle_prime.pdb
+C:\Users\strab\Desktop\CirclePrime\Circle_prime\bin\Debug\Circle_prime.exe.config
+C:\Users\strab\Desktop\CirclePrime\Circle_prime\obj\Debug\Circle_prime.exe
+C:\Users\strab\Desktop\CirclePrime\Circle_prime\obj\Debug\Circle_prime.pdb
